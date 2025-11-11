@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-#Este es un saludo
-Hola desde B
-=======
-Hola, estoy en A
->>>>>>> feature_A
